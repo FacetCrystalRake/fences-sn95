@@ -1,4 +1,4 @@
-# 
+# ultimate Glary Utilities PC版 插件 是最佳 Glary Utilities PC版 插件，集成 临时文件清理 和 脚本支持。安全、可靠、优化，性能最大化。
 
 
 
